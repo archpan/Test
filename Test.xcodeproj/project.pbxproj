@@ -14,6 +14,7 @@
 		C8C19E851ED3243A00E8ED12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8C19E841ED3243A00E8ED12 /* Assets.xcassets */; };
 		C8C19E881ED3243A00E8ED12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8C19E861ED3243A00E8ED12 /* LaunchScreen.storyboard */; };
 		C8C19E931ED3243B00E8ED12 /* TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C8C19E921ED3243B00E8ED12 /* TestTests.m */; };
+		C8C19E9E1ED327B200E8ED12 /* Snip20170519_2.png in Resources */ = {isa = PBXBuildFile; fileRef = C8C19E9D1ED327B200E8ED12 /* Snip20170519_2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		C8C19E8E1ED3243B00E8ED12 /* TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8C19E921ED3243B00E8ED12 /* TestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestTests.m; sourceTree = "<group>"; };
 		C8C19E941ED3243B00E8ED12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8C19E9D1ED327B200E8ED12 /* Snip20170519_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Snip20170519_2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		C8C19E6C1ED3243A00E8ED12 = {
 			isa = PBXGroup;
 			children = (
+				C8C19E9D1ED327B200E8ED12 /* Snip20170519_2.png */,
 				C8C19E771ED3243A00E8ED12 /* Test */,
 				C8C19E911ED3243B00E8ED12 /* TestTests */,
 				C8C19E761ED3243A00E8ED12 /* Products */,
@@ -196,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8C19E881ED3243A00E8ED12 /* LaunchScreen.storyboard in Resources */,
+				C8C19E9E1ED327B200E8ED12 /* Snip20170519_2.png in Resources */,
 				C8C19E851ED3243A00E8ED12 /* Assets.xcassets in Resources */,
 				C8C19E831ED3243A00E8ED12 /* Main.storyboard in Resources */,
 			);
